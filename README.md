@@ -2,7 +2,7 @@
 Esempio di codice C# utilizzato nel motore grafico Unity per controllare i movimenti del giocatore (un pollo) all'interno di un gioco platformer.
 Il gioco è un prototipo ideato per sistemi Android con visualizzazione Landscape (schermo 18:9 circa, orizzontale, di un dispositivo android).
 
-![alt-text](https://github.com/sabricham/unity-c-sharp-example/blob/main/Dimostrazione.mp4 "Video dimostrazione") 
+https://github.com/sabricham/unity-c-sharp-example/assets/149872304/9057f015-93cf-4553-bf8a-41780cef0fb6
 
 Il giocatore premendo sullo schermo interagisce con il pollo, il quale corre inarrestabile orizzontalmente in un ambientazione
 con varie piattaforme ed ostacoli (ancora non presenti), l'interazione con il pollo è semplice: premendo sullo schermo esso
